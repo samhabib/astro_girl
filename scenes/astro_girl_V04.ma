@@ -1,5 +1,4 @@
 //Maya ASCII 2017 scene
-
 //Name: astro_girl_V04.ma
 //Last modified: Thu, Aug 17, 2017 10:48:39 PM
 //Codeset: 1252
